@@ -43,7 +43,8 @@ Two dummy object instances having a field of type FileStream are created to hold
 ```
 
 The above code gives the following result:
-```d1 length:
+```
+d1 length:
 Cannot access a closed file.
 d2 length:
 49
